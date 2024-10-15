@@ -1,0 +1,19 @@
+# Eclipse and IntelliJ project files
+.classpath
+.project
+.settings
+.idea
+
+# Build directories
+build
+target
+
+# Maven
+.mvn
+.mvn
+ 
+# Logs
+.log
+
+# Temporary files
+.tmp
